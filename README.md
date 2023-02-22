@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-# [Your Name]
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/[www.linkedin.com/in/natchanon-chittragorn]/)](https://www.linkedin.com/in/[www.linkedin.com/in/natchanon-chittragorn]/) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/[your-github-url]/)](https://github.com/[your-github-url]/)
+# Natchanon Chittragorn
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in)](https://www.linkedin.com/in/natchanon-chittragorn) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https:github.com)](https://github.com/NatchanonChittragorn/)
 
-Welcome to my GitHub profile! I am a data analyst with experience in data cleaning, transformation, visualization, and machine learning. I am passionate about using data to drive business decisions and solve complex problems.
+Welcome to my GitHub profile! I am student who want to be a data analyst with experience in data cleaning, transformation, visualization, and machine learning. I am passionate about using data to drive business decisions and solve complex problems.
 
 ## Skills
 - Python
 - R
-- SQL
-- Pandas, NumPy, Matplotlib
-- ggplot2, dplyr
+- SQL and NoSQL
 - Machine learning
 - Data cleaning and transformation
 - Data visualization
@@ -26,10 +24,10 @@ Welcome to my GitHub profile! I am a data analyst with experience in data cleani
 - Introduction to Python, Codecademy
 
 ## Education
-- Bachelor of Science in Data Science and Analytics, XYZ University, [Expected graduation date]
+- Bachelor of Art in Computer for Communication, Srinakharinwirot University, [30/05/2024]
 
 ## Contact Me
-Feel free to connect with me on LinkedIn or email me at [your-email-address] if you have any questions or would like to collaborate on a project. Thanks for visiting my profile!
+Feel free to connect with me on LinkedIn or email me at [nenoncn@gmail.com] if you have any questions or would like to collaborate on a project. Thanks for visiting my profile!
 
 
 <!--
