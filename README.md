@@ -19,10 +19,6 @@ Welcome to my GitHub profile! I am student who want to be a data analyst with ex
 - [Project 2](https://github.com/[your-github-url]/project-2): A machine learning project using R to predict customer churn for a telecommunications company.
 - [Project 3](https://github.com/[your-github-url]/project-3): A data visualization project using ggplot2 in R to explore trends in global CO2 emissions.
 
-## Certifications
-- Data Science Essentials, Microsoft
-- Introduction to Python, Codecademy
-
 ## Education
 - Bachelor of Art in Computer for Communication, Srinakharinwirot University, [30/05/2024]
 
