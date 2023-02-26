@@ -15,9 +15,9 @@ Welcome to my GitHub profile! I am student who want to be a data analyst with ex
 - Statistical modeling
 
 ## Projects
-- [Project 1](https://github.com/[your-github-url]/project-1): A data cleaning and transformation project using Python and Pandas to prepare a dataset for analysis.
-- [Project 2](https://github.com/[your-github-url]/project-2): A machine learning project using R to predict customer churn for a telecommunications company.
-- [Project 3](https://github.com/[your-github-url]/project-3): A data visualization project using ggplot2 in R to explore trends in global CO2 emissions.
+- [Project 1](https://github.com/https://github.com/NatchanonChittragorn/Global_Vaccien_Tracker_Dashboard/project-1): A data visualization project using tableau to explore people vaccinated for provide valuable insights into the progress of vaccination efforts areas.
+- [Project 2](https://github.com/https://github.com/NatchanonChittragorn/Olympic-Analysis/project-2): Analyzing the Olympics with SQL involves querying a database that contains information on various aspects of the Olympic Games, such as athletes, events, countries, and medals.
+- [Project 3](https://github.com/https://github.com/NatchanonChittragorn/Sales-Analysis/project-3): A data analyst using Python Pandas & Python Matplotlib to analyze and answer business questions about 3 years' worth of sales data.
 
 ## Education
 - Bachelor of Art in Computer for Communication, Srinakharinwirot University, [30/05/2024]
