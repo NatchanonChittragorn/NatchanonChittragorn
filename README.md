@@ -13,9 +13,9 @@ Welcome to my GitHub profile! I am a student who is aspiring to become a fronten
 
 
 ## Projects
-- [Global_Vaccien_Tracker_Dashboard](https://github.com/NatchanonChittragorn/Global_Vaccien_Tracker_Dashboard/): A data visualization project using tableau to explore people vaccinated for provide valuable insights into the progress of vaccination efforts areas.
+- [Portfolio Website](https://github.com/NatchanonChittragorn/Portfolio_Website/): A data visualization project using tableau to explore people vaccinated for provide valuable insights into the progress of vaccination efforts areas.
 
-- [Olympic-Analysis](https://github.com/NatchanonChittragorn/Olympic-Analysis/): Analyzing the Olympics with SQL involves querying a database that contains information on various aspects of the Olympic Games, such as athletes, events, countries, and medals.
+- [Todo List WebApp](https://github.com/NatchanonChittragorn/Todo_List_WebApp/): Analyzing the Olympics with SQL involves querying a database that contains information on various aspects of the Olympic Games, such as athletes, events, countries, and medals.
 
 - [Sales-Analysis](https://github.com/NatchanonChittragorn/Sales-Analysis/): A data analyst using Python Pandas & Python Matplotlib to analyze and answer business questions about 3 years' worth of sales data.
 
