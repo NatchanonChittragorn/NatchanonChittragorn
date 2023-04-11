@@ -3,16 +3,14 @@
 # Natchanon Chittragorn
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in)](https://www.linkedin.com/in/natchanon-chittragorn) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https:github.com)](https://github.com/NatchanonChittragorn/)
 
-Welcome to my GitHub profile! I am student who want to be a data analyst with experience in data cleaning, transformation, visualization, and machine learning. I am passionate about using data to drive business decisions and solve complex problems.
+Welcome to my GitHub profile! I am a student who is aspiring to become a frontend developer with experience in building responsive and user-friendly websites using HTML, CSS, and JavaScript. I am passionate about creating visually appealing and intuitive interfaces that provide a seamless user experience.
 
 ## Skills
-- Python
-- R
+- HTML,CSS,JavaScript,Swift,Python
+- Bootstrap,NodeJS,ReactJS
 - SQL and NoSQL
-- Machine learning
-- Data cleaning and transformation
-- Data visualization
-- Statistical modeling
+- VScode, Github, Photoshop, Illustrator
+
 
 ## Projects
 - [Global_Vaccien_Tracker_Dashboard](https://github.com/NatchanonChittragorn/Global_Vaccien_Tracker_Dashboard/): A data visualization project using tableau to explore people vaccinated for provide valuable insights into the progress of vaccination efforts areas.
