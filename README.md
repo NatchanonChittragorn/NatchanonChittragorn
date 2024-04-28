@@ -6,7 +6,7 @@
 Welcome to my GitHub profile! I am a student who is aspiring to become a frontend developer with experience in building responsive and user-friendly websites using HTML, CSS, and JavaScript. I am passionate about creating visually appealing and intuitive interfaces that provide a seamless user experience.
 
 ## Skills
-- HTML,CSS,JavaScript,Swift,Python
+- HTML,CSS,JavaScript
 - Bootstrap,NodeJS,ReactJS
 - SQL and NoSQL
 - VScode, Github, Photoshop, Illustrator
